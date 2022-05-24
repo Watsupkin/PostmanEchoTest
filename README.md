@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/8607amx5uwnw90tx?svg=true)](https://ci.appveyor.com/project/Watsupkin/api-ci)
+[![Build status](https://ci.appveyor.com/api/projects/status/dtyi9mv1l3385dte?svg=true)](https://ci.appveyor.com/project/Watsupkin/postmanechotest)
